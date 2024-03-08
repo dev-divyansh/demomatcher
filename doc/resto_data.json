@@ -1,0 +1,887 @@
+[
+    {
+        "restoname": "Garva Biryani",
+        "restoUrl": "https://www.zomato.com/pune/garva-biryani-kothrud/order",
+        "rating": "3.6"
+    },
+    {
+        "restoname": "Domino's Pizza",
+        "restoUrl": "https://www.zomato.com/pune/dominos-pizza-rasta-peth/order",
+        "rating": "3.5"
+    },
+    {
+        "restoname": "Vrudheshwar Pure Veg",
+        "restoUrl": "https://www.zomato.com/pune/vrudheshwar-pure-veg-shivaji-nagar/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Crazy Cheesy",
+        "restoUrl": "https://www.zomato.com/pune/crazy-cheesy-sadashiv-peth/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Burger - Since 1989",
+        "restoUrl": "https://www.zomato.com/pune/burger-since-1989-koregaon-park/order",
+        "rating": "4.4"
+    },
+    {
+        "restoname": "Aroma's Hyderabad House",
+        "restoUrl": "https://www.zomato.com/pune/aromas-hyderabad-house-erandwane/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Pizza Hut",
+        "restoUrl": "https://www.zomato.com/pune/pizza-hut-shukrawar-peth/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "Behrouz Biryani",
+        "restoUrl": "https://www.zomato.com/pune/behrouz-biryani-shaniwar-peth/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Oven Story Pizza - Standout Toppings",
+        "restoUrl": "https://www.zomato.com/pune/oven-story-pizza-standout-toppings-shaniwar-peth/order",
+        "rating": "4.4"
+    },
+    {
+        "restoname": "McDonald's",
+        "restoUrl": "https://www.zomato.com/pune/mcdonalds-shaniwar-peth/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Burger King",
+        "restoUrl": "https://www.zomato.com/pune/burger-king-1-senapati-bapat-road/order",
+        "rating": "3.9"
+    },
+    {
+        "restoname": "KFC",
+        "restoUrl": "https://www.zomato.com/pune/kfc-jm-road/order",
+        "rating": "3.9"
+    },
+    {
+        "restoname": "MH 12 Pav Bhaji",
+        "restoUrl": "https://www.zomato.com/pune/mh-12-pav-bhaji-satara-road/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "PK Biryani House",
+        "restoUrl": "https://www.zomato.com/pune/pk-biryani-house-deccan-gymkhana/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "The Belgian Waffle Co.",
+        "restoUrl": "https://www.zomato.com/pune/the-belgian-waffle-co-jm-road/order",
+        "rating": "4.4"
+    },
+    {
+        "restoname": "Hotel Yatrik Yashraj Restaurant",
+        "restoUrl": "https://www.zomato.com/pune/hotel-yatrik-yashraj-restaurant-budhwar-peth/order",
+        "rating": "3.9"
+    },
+    {
+        "restoname": "La Pino'z Pizza",
+        "restoUrl": "https://www.zomato.com/pune/la-pinoz-pizza-fc-road/order",
+        "rating": "3.8"
+    },
+    {
+        "restoname": "Sujata Mastani",
+        "restoUrl": "https://www.zomato.com/pune/sujata-mastani-rasta-peth/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Chitale Bandhu Mithaiwale",
+        "restoUrl": "https://www.zomato.com/pune/chitale-bandhu-mithaiwale-sadashiv-peth/order",
+        "rating": "4.6"
+    },
+    {
+        "restoname": "Al Madina Biryani House",
+        "restoUrl": "https://www.zomato.com/pune/al-madina-biryani-house-camp-area/order",
+        "rating": "3.5"
+    },
+    {
+        "restoname": "Govinda's Snacks Centre Camp ISKCON",
+        "restoUrl": "https://www.zomato.com/pune/govindas-snacks-centre-camp-iskcon-camp-area/order",
+        "rating": "4.5"
+    },
+    {
+        "restoname": "Madinah Restaurant",
+        "restoUrl": "https://www.zomato.com/pune/madinah-restaurant-camp-area/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Shahji's Parantha House",
+        "restoUrl": "https://www.zomato.com/pune/shahjis-parantha-house-rasta-peth/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Homely Meals@69",
+        "restoUrl": "https://www.zomato.com/pune/homely-meals@69-rasta-peth/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "Rolls Mania",
+        "restoUrl": "https://www.zomato.com/pune/rolls-mania-sadashiv-peth/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Hotel Al Zaika",
+        "restoUrl": "https://www.zomato.com/pune/hotel-al-zaika-2-shukrawar-peth/order",
+        "rating": "3.3"
+    },
+    {
+        "restoname": "Natural Ice Cream",
+        "restoUrl": "https://www.zomato.com/pune/natural-ice-cream-jm-road/order",
+        "rating": "4.4"
+    },
+    {
+        "restoname": "Brahma Pure Veg",
+        "restoUrl": "https://www.zomato.com/pune/brahma-pure-veg-sinhgad-road/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "BOX8 - Desi Meals",
+        "restoUrl": "https://www.zomato.com/pune/box8-desi-meals-bund-garden/order",
+        "rating": "4.5"
+    },
+    {
+        "restoname": "Atithi Veg",
+        "restoUrl": "https://www.zomato.com/pune/atithi-veg-parvati/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "Bebe Di Rasoi - Punjabi",
+        "restoUrl": "https://www.zomato.com/pune/bebe-di-rasoi-punjabi-senapati-bapat-road/order",
+        "rating": "3.9"
+    },
+    {
+        "restoname": "Subway",
+        "restoUrl": "https://www.zomato.com/pune/subway-fc-road/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "NIC Ice Creams",
+        "restoUrl": "https://www.zomato.com/pune/nic-ice-creams-jm-road/order",
+        "rating": "4.5"
+    },
+    {
+        "restoname": "Faasos - Wraps & Rolls",
+        "restoUrl": "https://www.zomato.com/pune/faasos-wraps-rolls-shaniwar-peth/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Chaitanya Paranthas",
+        "restoUrl": "https://www.zomato.com/pune/chaitanya-paranthas-fc-road/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "MOJO Pizza - 2X Toppings",
+        "restoUrl": "https://www.zomato.com/pune/mojo-pizza-2x-toppings-bund-garden/order",
+        "rating": "4.5"
+    },
+    {
+        "restoname": "Wendy's Burgers",
+        "restoUrl": "https://www.zomato.com/pune/wendys-burgers-law-college-road/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "The Momo Panda",
+        "restoUrl": "https://www.zomato.com/pune/the-momo-panda-1-fc-road/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "Cafe Durga",
+        "restoUrl": "https://www.zomato.com/pune/cafe-durga-1-jm-road/order",
+        "rating": "3.6"
+    },
+    {
+        "restoname": "Lassi Wassi",
+        "restoUrl": "https://www.zomato.com/pune/lassi-wassi-kothrud/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Haldiram's Restaurant",
+        "restoUrl": "https://www.zomato.com/pune/haldirams-restaurant-shivaji-nagar/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Khushboo Pure Veg",
+        "restoUrl": "https://www.zomato.com/pune/khushboo-pure-veg-bibvewadi/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Cheesiano Pizza",
+        "restoUrl": "https://www.zomato.com/pune/cheesiano-pizza-camp-area/order",
+        "rating": "3.9"
+    },
+    {
+        "restoname": "Kwality Wall\u2019s Frozen Dessert and Ice Cream Shop",
+        "restoUrl": "https://www.zomato.com/pune/kwality-walls-frozen-dessert-and-ice-cream-shop-1-camp-area/order",
+        "rating": "3.7"
+    },
+    {
+        "restoname": "Theobroma",
+        "restoUrl": "https://www.zomato.com/pune/theobroma-2-jm-road/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Circle Of Crust",
+        "restoUrl": "https://www.zomato.com/pune/circle-of-crust-salunkhe-vihar-road/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Kimling",
+        "restoUrl": "https://www.zomato.com/pune/kimling-wanowrie/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Oye Kiddan",
+        "restoUrl": "https://www.zomato.com/pune/oye-kiddan-kothrud/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "Chinese Wok",
+        "restoUrl": "https://www.zomato.com/pune/chinese-wok-swargate/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Panchami Pure Veg",
+        "restoUrl": "https://www.zomato.com/pune/panchami-pure-veg-parvati/order",
+        "rating": "4.4"
+    },
+    {
+        "restoname": "Bird Valley",
+        "restoUrl": "https://www.zomato.com/pune/bird-valley-sinhgad-road/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "Pind Punjab",
+        "restoUrl": "https://www.zomato.com/pune/pind-punjab-mg-road/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "Shri Swami Samartha Pure Veg",
+        "restoUrl": "https://www.zomato.com/pune/shri-swami-samartha-pure-veg-kothrud/order",
+        "rating": "3.8"
+    },
+    {
+        "restoname": "CakeZone Patisserie",
+        "restoUrl": "https://www.zomato.com/pune/cakezone-patisserie-jm-road/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Gokul Pure Veg",
+        "restoUrl": "https://www.zomato.com/pune/gokul-pure-veg-kondhwa/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Chinese Culture",
+        "restoUrl": "https://www.zomato.com/pune/chinese-culture-karve-nagar/order",
+        "rating": "3.6"
+    },
+    {
+        "restoname": "Mad Momos",
+        "restoUrl": "https://www.zomato.com/pune/mad-momos-karve-nagar/order",
+        "rating": "3.8"
+    },
+    {
+        "restoname": "Roll Point",
+        "restoUrl": "https://www.zomato.com/pune/roll-point-dhankawadi/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "Domio's Pizza - A - 1 Pizza Shop",
+        "restoUrl": "https://www.zomato.com/pune/domios-pizza-a-1-pizza-shop-karve-nagar/order",
+        "rating": "3.6"
+    },
+    {
+        "restoname": "Biryani By Kilo",
+        "restoUrl": "https://www.zomato.com/pune/biryani-by-kilo-kothrud/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Shiv Sagar",
+        "restoUrl": "https://www.zomato.com/pune/shiv-sagar-jm-road/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Falahaar",
+        "restoUrl": "https://www.zomato.com/pune/falahaar-fc-road/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Monginis",
+        "restoUrl": "https://www.zomato.com/pune/monginis-1-sadashiv-peth/order",
+        "rating": "4.4"
+    },
+    {
+        "restoname": "Sweet Truth - Cake and Desserts",
+        "restoUrl": "https://www.zomato.com/pune/sweet-truth-cake-and-desserts-shaniwar-peth/order",
+        "rating": "4.4"
+    },
+    {
+        "restoname": "Cafe Zam Zam",
+        "restoUrl": "https://www.zomato.com/pune/cafe-zam-zam-kondhwa/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Relax Pure Veg",
+        "restoUrl": "https://www.zomato.com/pune/relax-pure-veg-parvati/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Pizza Kitchen",
+        "restoUrl": "https://www.zomato.com/pune/pizza-kitchen-swargate/order",
+        "rating": "3.9"
+    },
+    {
+        "restoname": "Baasuri Pure Veg",
+        "restoUrl": "https://www.zomato.com/pune/baasuri-pure-veg-bibvewadi/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Sandwich Express",
+        "restoUrl": "https://www.zomato.com/pune/sandwich-express-kothrud/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Filli Bites",
+        "restoUrl": "https://www.zomato.com/pune/filli-bites-camp-area/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Global Punjab",
+        "restoUrl": "https://www.zomato.com/pune/global-punjab-1-erandwane/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Abhishek Veg Restaurant",
+        "restoUrl": "https://www.zomato.com/pune/abhishek-veg-restaurant-erandwane/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "WOW! Momo",
+        "restoUrl": "https://www.zomato.com/pune/wow-momo-kothrud/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Marrakesh",
+        "restoUrl": "https://www.zomato.com/pune/marrakesh-fc-road/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Irani Cafe",
+        "restoUrl": "https://www.zomato.com/pune/irani-cafe-camp-area/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Pokket Cafe",
+        "restoUrl": "https://www.zomato.com/pune/pokket-cafe-1-karve-nagar/order",
+        "rating": "3.4"
+    },
+    {
+        "restoname": "Best Belgian Waffle",
+        "restoUrl": "https://www.zomato.com/pune/best-belgian-waffle-erandwane/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Amritsari Kulcha and Delhi Chaap",
+        "restoUrl": "https://www.zomato.com/pune/amritsari-kulcha-and-delhi-chaap-kalyani-nagar/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "Eatsome - Wraps & Rolls",
+        "restoUrl": "https://www.zomato.com/pune/eatsome-wraps-rolls-jm-road/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Blue Nile",
+        "restoUrl": "https://www.zomato.com/pune/blue-nile-camp-area/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Sheetal Restaurant",
+        "restoUrl": "https://www.zomato.com/pune/sheetal-restaurant-kothrud/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "RK Pure Veg",
+        "restoUrl": "https://www.zomato.com/pune/rk-pure-veg-vishrantwadi/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "Hotel Real Taste",
+        "restoUrl": "https://www.zomato.com/pune/hotel-real-taste-kondhwa/order",
+        "rating": "3.9"
+    },
+    {
+        "restoname": "Eagle Boys Pizzeria & Cafe",
+        "restoUrl": "https://www.zomato.com/pune/eagle-boys-pizzeria-cafe-dhankawadi/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Uncle's Chinese",
+        "restoUrl": "https://www.zomato.com/pune/uncles-chinese-camp-area/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Samudra",
+        "restoUrl": "https://www.zomato.com/pune/samudra-erandwane/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Barbeque Nation",
+        "restoUrl": "https://www.zomato.com/pune/barbeque-nation-fatima-nagar/order",
+        "rating": "3.8"
+    },
+    {
+        "restoname": "Pruthvi Vegetarianism",
+        "restoUrl": "https://www.zomato.com/pune/pruthvi-vegetarianism-kothrud/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "NH1 Bowls - Highway To North",
+        "restoUrl": "https://www.zomato.com/pune/nh1-bowls-highway-to-north-dhole-patil-road/order",
+        "rating": "4.5"
+    },
+    {
+        "restoname": "Baskin Robbins - Ice Cream Desserts",
+        "restoUrl": "https://www.zomato.com/pune/baskin-robbins-ice-cream-desserts-swargate/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "M.M. Restaurant",
+        "restoUrl": "https://www.zomato.com/pune/m-m-restaurant-1-khadki/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Arabian Bites",
+        "restoUrl": "https://www.zomato.com/pune/arabian-bites-camp-area/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Oh My Punjab",
+        "restoUrl": "https://www.zomato.com/pune/oh-my-punjab-fc-road/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Wadeshwar",
+        "restoUrl": "https://www.zomato.com/pune/wadeshwar-fc-road/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Kalyan Bhel",
+        "restoUrl": "https://www.zomato.com/pune/kalyan-bhel-swargate/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "7th Heaven",
+        "restoUrl": "https://www.zomato.com/pune/7th-heaven-sinhgad-road/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "Mankar Dosa",
+        "restoUrl": "https://www.zomato.com/pune/mankar-dosa-satara-road/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Mumbai Darbar",
+        "restoUrl": "https://www.zomato.com/pune/mumbai-darbar-shivaji-nagar/order",
+        "rating": "3.3"
+    },
+    {
+        "restoname": "LunchBox - Meals and Thalis",
+        "restoUrl": "https://www.zomato.com/pune/lunchbox-meals-and-thalis-shaniwar-peth/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Bikkgane Biryani",
+        "restoUrl": "https://www.zomato.com/pune/bikkgane-biryani-kothrud/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "Agra Restaurant",
+        "restoUrl": "https://www.zomato.com/pune/agra-restaurant-kondhwa/order",
+        "rating": "3.9"
+    },
+    {
+        "restoname": "Cafe Momos",
+        "restoUrl": "https://www.zomato.com/pune/cafe-momos-kothrud/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Great Indian Khichdi by EatFit",
+        "restoUrl": "https://www.zomato.com/pune/great-indian-khichdi-by-eatfit-jm-road/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "The Chinese Wok",
+        "restoUrl": "https://www.zomato.com/pune/the-chinese-wok-kondhwa/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Crazy Momos",
+        "restoUrl": "https://www.zomato.com/pune/crazy-momos-sadashiv-peth/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Pizza Point",
+        "restoUrl": "https://www.zomato.com/pune/pizza-point-3-sinhgad-road/order",
+        "rating": "3.9"
+    },
+    {
+        "restoname": "Jyoti",
+        "restoUrl": "https://www.zomato.com/pune/jyoti-kondhwa/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "AB's - Absolute Barbecues",
+        "restoUrl": "https://www.zomato.com/pune/abs-absolute-barbecues-kalyani-nagar/order",
+        "rating": "3.9"
+    },
+    {
+        "restoname": "Starbucks Coffee",
+        "restoUrl": "https://www.zomato.com/pune/starbucks-coffee-fc-road/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Punjab Canteen",
+        "restoUrl": "https://www.zomato.com/pune/punjab-canteen-kothrud/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "Mad Over Donuts",
+        "restoUrl": "https://www.zomato.com/pune/mad-over-donuts-swargate/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Momo's Corrner",
+        "restoUrl": "https://www.zomato.com/pune/momos-corrner-koregaon-park/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Joshi Wadewale",
+        "restoUrl": "https://www.zomato.com/pune/joshi-wadewale-shivaji-nagar/order",
+        "rating": "3.9"
+    },
+    {
+        "restoname": "The King Shawarma",
+        "restoUrl": "https://www.zomato.com/pune/the-king-shawarma-sinhgad-road/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Krushna Pure Veg",
+        "restoUrl": "https://www.zomato.com/pune/krushna-pure-veg-wanowrie/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Raju Uncle's Chole Bhature",
+        "restoUrl": "https://www.zomato.com/pune/raju-uncles-chole-bhature-katraj/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Hite Bar",
+        "restoUrl": "https://www.zomato.com/pune/hite-bar-camp-area/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "The Good Bowl",
+        "restoUrl": "https://www.zomato.com/pune/the-good-bowl-shaniwar-peth/order",
+        "rating": "4.4"
+    },
+    {
+        "restoname": "PK Mutton Bhakri",
+        "restoUrl": "https://www.zomato.com/pune/pk-mutton-bhakri-shivaji-nagar/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Mamata Dining Hall",
+        "restoUrl": "https://www.zomato.com/pune/mamata-dining-hall-karve-nagar/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Cafe Chokolade",
+        "restoUrl": "https://www.zomato.com/pune/cafe-chokolade-1-camp-area/order",
+        "rating": "4.5"
+    },
+    {
+        "restoname": "Taco Bell",
+        "restoUrl": "https://www.zomato.com/pune/taco-bell-fc-road/order",
+        "rating": "3.9"
+    },
+    {
+        "restoname": "SK Chinese",
+        "restoUrl": "https://www.zomato.com/pune/sk-chinese-katraj/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "EatFit",
+        "restoUrl": "https://www.zomato.com/pune/eatfit-fc-road/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Grameen Kulfi",
+        "restoUrl": "https://www.zomato.com/pune/grameen-kulfi-satara-road/order",
+        "rating": "4.5"
+    },
+    {
+        "restoname": "Ratna Veg Cuisine",
+        "restoUrl": "https://www.zomato.com/pune/ratna-veg-cuisine-1-karve-nagar/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Vaishali",
+        "restoUrl": "https://www.zomato.com/pune/vaishali-fc-road/order",
+        "rating": "4.5"
+    },
+    {
+        "restoname": "Haldiram's Sweets and Namkeen",
+        "restoUrl": "https://www.zomato.com/pune/haldirams-sweets-and-namkeen-shukrawar-peth/order",
+        "rating": "4.4"
+    },
+    {
+        "restoname": "Chinese Chef Co",
+        "restoUrl": "https://www.zomato.com/pune/chinese-chef-co-karve-nagar/order",
+        "rating": "3.6"
+    },
+    {
+        "restoname": "Sagy's Chaapwala",
+        "restoUrl": "https://www.zomato.com/pune/sagys-chaapwala-kothrud/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Dadu's Sweet Emporio",
+        "restoUrl": "https://www.zomato.com/pune/dadus-sweet-emporio-camp-area/order",
+        "rating": "4.4"
+    },
+    {
+        "restoname": "Kwality Family Resto Bar",
+        "restoUrl": "https://www.zomato.com/pune/kwality-family-resto-bar-1-shivaji-nagar/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Jija Pure Veg",
+        "restoUrl": "https://www.zomato.com/pune/jija-pure-veg-sadashiv-peth/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Flavours Street",
+        "restoUrl": "https://www.zomato.com/pune/flavours-street-bibvewadi/order",
+        "rating": "3.9"
+    },
+    {
+        "restoname": "Kalyani Veg",
+        "restoUrl": "https://www.zomato.com/pune/kalyani-veg-kalyani-nagar/order",
+        "rating": "4.4"
+    },
+    {
+        "restoname": "Frozen Bottle - Milkshakes, Desserts And Ice Cream",
+        "restoUrl": "https://www.zomato.com/pune/frozen-bottle-milkshakes-desserts-and-ice-cream-fc-road/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Chocolate Biclate",
+        "restoUrl": "https://www.zomato.com/pune/chocolate-biclate-fc-road/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Daily Kitchen - Homestyle Meals",
+        "restoUrl": "https://www.zomato.com/pune/daily-kitchen-homestyle-meals-model-colony/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Radha Krushna",
+        "restoUrl": "https://www.zomato.com/pune/radha-krushna-bibvewadi/order",
+        "rating": "3.9"
+    },
+    {
+        "restoname": "Ishan Pure Veg",
+        "restoUrl": "https://www.zomato.com/pune/ishan-pure-veg-shivaji-nagar/order",
+        "rating": "4.4"
+    },
+    {
+        "restoname": "Maratha Samrat",
+        "restoUrl": "https://www.zomato.com/pune/maratha-samrat-camp-area/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "ZAZA Mughal Biryani",
+        "restoUrl": "https://www.zomato.com/pune/zaza-mughal-biryani-dhole-patil-road/order",
+        "rating": "4.4"
+    },
+    {
+        "restoname": "RushHrs",
+        "restoUrl": "https://www.zomato.com/pune/rushhrs-karve-nagar/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Dum Safar Biryani",
+        "restoUrl": "https://www.zomato.com/pune/dum-safar-biryani-jm-road/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "The Pizza Box",
+        "restoUrl": "https://www.zomato.com/pune/the-pizza-box-senapati-bapat-road/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Vaibhav Lunch Home",
+        "restoUrl": "https://www.zomato.com/pune/vaibhav-lunch-home-pune-university/order",
+        "rating": "3.6"
+    },
+    {
+        "restoname": "Big Bowl",
+        "restoUrl": "https://www.zomato.com/pune/big-bowl-swargate/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "Merwans Cake Stop",
+        "restoUrl": "https://www.zomato.com/pune/merwans-cake-stop-east-street/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "George Restaurant",
+        "restoUrl": "https://www.zomato.com/pune/george-restaurant-camp-area/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "WarmOven Cake & Desserts",
+        "restoUrl": "https://www.zomato.com/pune/warmoven-cake-desserts-kothrud/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "WOW! China",
+        "restoUrl": "https://www.zomato.com/pune/wow-china-kothrud/order",
+        "rating": "3.6"
+    },
+    {
+        "restoname": "Kekiz The Cake Shop",
+        "restoUrl": "https://www.zomato.com/pune/kekiz-the-cake-shop-shivaji-nagar/order",
+        "rating": "3.3"
+    },
+    {
+        "restoname": "Shahi Dawat",
+        "restoUrl": "https://www.zomato.com/pune/shahi-dawat-camp-area/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Deccan Darbar",
+        "restoUrl": "https://www.zomato.com/pune/deccan-darbar-kondhwa/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Nandu's Parathas",
+        "restoUrl": "https://www.zomato.com/pune/nandus-parathas-bund-garden/order",
+        "rating": "3.8"
+    },
+    {
+        "restoname": "Kaka Halwai",
+        "restoUrl": "https://www.zomato.com/pune/kaka-halwai-budhwar-peth/order",
+        "rating": "4.4"
+    },
+    {
+        "restoname": "Deepa's Mess",
+        "restoUrl": "https://www.zomato.com/pune/deepas-mess-hadapsar/order",
+        "rating": "4.4"
+    },
+    {
+        "restoname": "Roopali Pure Veg",
+        "restoUrl": "https://www.zomato.com/pune/roopali-pure-veg-bibvewadi/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Sukhkarta Pure Veg Dining Hall",
+        "restoUrl": "https://www.zomato.com/pune/sukhkarta-pure-veg-dining-hall-kothrud/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Anna",
+        "restoUrl": "https://www.zomato.com/pune/anna-fc-road/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Ronak Pav Bhaji And Juice Bar",
+        "restoUrl": "https://www.zomato.com/pune/ronak-pav-bhaji-and-juice-bar-shivaji-nagar/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "The Biryani Life",
+        "restoUrl": "https://www.zomato.com/pune/the-biryani-life-shaniwar-peth/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Green Food",
+        "restoUrl": "https://www.zomato.com/pune/green-food-kothrud/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Chill Out",
+        "restoUrl": "https://www.zomato.com/pune/chill-out-katraj/order",
+        "rating": "4.4"
+    },
+    {
+        "restoname": "Veg Sutra",
+        "restoUrl": "https://www.zomato.com/pune/veg-sutra-kothrud/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "China Grill",
+        "restoUrl": "https://www.zomato.com/pune/china-grill-wanowrie/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Mallu Stories",
+        "restoUrl": "https://www.zomato.com/pune/mallu-stories-dhole-patil-road/order",
+        "rating": "4.2"
+    },
+    {
+        "restoname": "Reddy's Fast Food",
+        "restoUrl": "https://www.zomato.com/pune/reddys-fast-food-yerawada/order",
+        "rating": "3.7"
+    },
+    {
+        "restoname": "Amritsari Dhaba",
+        "restoUrl": "https://www.zomato.com/pune/amritsari-dhaba-dhankawadi/order",
+        "rating": "3.6"
+    },
+    {
+        "restoname": "Barometer",
+        "restoUrl": "https://www.zomato.com/pune/barometer-kothrud/order",
+        "rating": "4.5"
+    },
+    {
+        "restoname": "Rohit Wadewale",
+        "restoUrl": "https://www.zomato.com/pune/rohit-wadewale-1-parvati/order",
+        "rating": "4.1"
+    },
+    {
+        "restoname": "Kareem's",
+        "restoUrl": "https://www.zomato.com/pune/kareems-koregaon-park/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "Golden Dragon",
+        "restoUrl": "https://www.zomato.com/pune/golden-dragon-kothrud/order",
+        "rating": "4.0"
+    },
+    {
+        "restoname": "Baker's Basket",
+        "restoUrl": "https://www.zomato.com/pune/bakers-basket-deccan-gymkhana/order",
+        "rating": "4.5"
+    },
+    {
+        "restoname": "Itminaan Matka Biryani - Slow Cooked",
+        "restoUrl": "https://www.zomato.com/pune/itminaan-matka-biryani-slow-cooked-bund-garden/order",
+        "rating": "4.3"
+    },
+    {
+        "restoname": "Khandeshi Jalgaon",
+        "restoUrl": "https://www.zomato.com/pune/khandeshi-jalgaon-kothrud/order",
+        "rating": "3.5"
+    },
+    {
+        "restoname": "Cafe Arabia",
+        "restoUrl": "https://www.zomato.com/pune/cafe-arabia-kothrud/order",
+        "rating": "4.1"
+    }
+]
