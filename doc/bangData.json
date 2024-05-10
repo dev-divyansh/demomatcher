@@ -1,0 +1,944 @@
+[
+    {
+        "name": "Taste Of Darjeeling",
+        "cuisine": "Chinese, Momos, North Indian",
+        "rating": "3.7",
+        "link": "https://www.zomato.com/bangalore/taste-of-darjeeling-3-btm-bangalore/order"
+    },
+    {
+        "name": "Madeena Hotel",
+        "cuisine": "Biryani, North Indian",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/madeena-hotel-vijay-nagar-bangalore/order"
+    },
+    {
+        "name": "KFC",
+        "cuisine": "Fast Food, Burger, Biryani, Desserts, Beverages",
+        "rating": "4.1",
+        "link": "https://www.zomato.com/bangalore/kfc-domlur-bangalore/order"
+    },
+    {
+        "name": "KC Das",
+        "cuisine": "Mithai, Street Food, Mishti, Bengali",
+        "rating": "4.1",
+        "link": "https://www.zomato.com/bangalore/kc-das-st-marks-road-bangalore/order"
+    },
+    {
+        "name": "Lubov Patisserie",
+        "cuisine": "Bakery, Desserts",
+        "rating": "3.4",
+        "link": "https://www.zomato.com/bangalore/lubov-patisserie-btm-bangalore/order"
+    },
+    {
+        "name": "The Rice Bowl",
+        "cuisine": "Asian, Chinese, Sichuan, Seafood, Desserts",
+        "rating": "4.4",
+        "link": "https://www.zomato.com/bangalore/the-rice-bowl-1-lavelle-road/order"
+    },
+    {
+        "name": "Raaga",
+        "cuisine": "North Indian, Mughlai, Biryani, Chinese, Desserts, Beverages, Shake, Sichuan",
+        "rating": "3.7",
+        "link": "https://www.zomato.com/bangalore/raaga-indiranagar/order"
+    },
+    {
+        "name": "Lazeez",
+        "cuisine": "North Indian, Mughlai, Biryani, Kebab, Rolls",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/lazeez-koramangala-5th-block/order"
+    },
+    {
+        "name": "Tera Bites",
+        "cuisine": "Ice Cream, Desserts",
+        "rating": "4.2",
+        "link": "https://www.zomato.com/bangalore/tera-bites-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "Night Hawks",
+        "cuisine": "Biryani, Fast Food, North Indian, Chinese",
+        "rating": "3.9",
+        "link": "https://www.zomato.com/bangalore/night-hawks-hosur-road-bangalore/order"
+    },
+    {
+        "name": "Sandwich Guru",
+        "cuisine": "Fast Food, Sandwich, Burmese",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/sandwich-guru-seshadripuram-bangalore/order"
+    },
+    {
+        "name": "Buono!",
+        "cuisine": "Pasta, Burger, Sandwich, Fast Food, Beverages",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/buono-ulsoor-bangalore/order"
+    },
+    {
+        "name": "Home Baker's",
+        "cuisine": "Bakery",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/home-bakers-hosur-road-bangalore/order"
+    },
+    {
+        "name": "Steak Queen",
+        "cuisine": "Burger, Pasta, Pizza, Steak, Salad, Fast Food, Beverages",
+        "rating": "3.1",
+        "link": "https://www.zomato.com/bangalore/steak-queen-1-kammanahalli-bangalore/order"
+    },
+    {
+        "name": "The Soup Project",
+        "cuisine": "Healthy Food, Chinese",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/the-soup-project-1-basavanagudi-bangalore/order"
+    },
+    {
+        "name": "Not Guilty",
+        "cuisine": "Healthy Food, Desserts, Beverages",
+        "rating": "3.5",
+        "link": "https://www.zomato.com/bangalore/not-guilty-indiranagar-bangalore/order"
+    },
+    {
+        "name": "Lassi Corner House",
+        "cuisine": "Beverages, Coffee, Juices, Rolls, Sandwich, Fast Food, Ice Cream",
+        "rating": "3.9",
+        "link": "https://www.zomato.com/bangalore/lassi-corner-house-city-market-bangalore/order"
+    },
+    {
+        "name": "Cane Town",
+        "cuisine": "Juices",
+        "rating": "4.3",
+        "link": "https://www.zomato.com/bangalore/cane-town-frazer-town-bangalore/order"
+    },
+    {
+        "name": "Biryani Point",
+        "cuisine": "Biryani, Fast Food",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/biryani-point-ulsoor-bangalore/order"
+    },
+    {
+        "name": "Budget Bites",
+        "cuisine": "Mandi, South Indian, North Indian",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/budget-bites-koramangala-2nd-block-bangalore/order"
+    },
+    {
+        "name": "Spice Cove - I.V Sanctum",
+        "cuisine": "North Indian, South Indian, Continental, Asian, Sichuan, Beverages",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/spice-cove-i-v-sanctum-1-majestic/order"
+    },
+    {
+        "name": "Stava Bistro",
+        "cuisine": "Cafe, Italian, Beverages, Asian, Continental",
+        "rating": "3.7",
+        "link": "https://www.zomato.com/bangalore/stava-bistro-btm-bangalore/order"
+    },
+    {
+        "name": "Delhi Paratha Centre",
+        "cuisine": "North Indian",
+        "rating": "3.9",
+        "link": "https://www.zomato.com/bangalore/delhi-paratha-centre-thippasandra-bangalore/order"
+    },
+    {
+        "name": "Sattuani",
+        "cuisine": "Street Food, Beverages",
+        "rating": "4.1",
+        "link": "https://www.zomato.com/bangalore/sattuani-st-marks-road-bangalore/order"
+    },
+    {
+        "name": "R R Fruit Juice Center",
+        "cuisine": "Beverages",
+        "rating": "4.3",
+        "link": "https://www.zomato.com/bangalore/r-r-fruit-juice-center-malleshwaram-bangalore/order"
+    },
+    {
+        "name": "California Burrito",
+        "cuisine": "Mexican, Healthy Food, American, Salad, Fast Food, Beverages",
+        "rating": "4.2",
+        "link": "https://www.zomato.com/bangalore/california-burrito-1-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "Narmada Chain of Restaurants",
+        "cuisine": "Biryani, Andhra, North Indian, Chinese, Mughlai, Beverages",
+        "rating": "4.3",
+        "link": "https://www.zomato.com/bangalore/narmada-chain-of-restaurants-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "The Belgian Waffle Co.",
+        "cuisine": "Waffle, Ice Cream, Desserts, Beverages",
+        "rating": "4.3",
+        "link": "https://www.zomato.com/bangalore/the-belgian-waffle-co-koramangala-7th-block-bangalore/order"
+    },
+    {
+        "name": "YMIA Club Naidu Caterers",
+        "cuisine": "North Indian, Mughlai, Biryani, Street Food, Sichuan, Chinese, Andhra, Seafood",
+        "rating": "3.6",
+        "link": "https://www.zomato.com/bangalore/ymia-club-naidu-caterers-shivajinagar-bangalore/order"
+    },
+    {
+        "name": "Oru Vadakkan Cafe",
+        "cuisine": "Kerala, South Indian, Biryani, Seafood, Beverages",
+        "rating": "4.1",
+        "link": "https://www.zomato.com/bangalore/oru-vadakkan-cafe-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "Ashirvaad Grand",
+        "cuisine": "South Indian, Beverages",
+        "rating": "3.8",
+        "link": "https://www.zomato.com/bangalore/ashirvaad-grand-btm/order"
+    },
+    {
+        "name": "Xero Degrees",
+        "cuisine": "Cafe, Coffee, Fast Food, Pizza, Burger, Sandwich, Waffle, Beverages",
+        "rating": "4.1",
+        "link": "https://www.zomato.com/bangalore/xero-degrees-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "Food Adda",
+        "cuisine": "Sandwich, Pizza, Burger, Momos, Fast Food, Street Food, Shake, Beverages",
+        "rating": "3.6",
+        "link": "https://www.zomato.com/bangalore/food-adda-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "Juice Junction",
+        "cuisine": "Beverages, Sandwich, Juices, Shake",
+        "rating": "4.2",
+        "link": "https://www.zomato.com/bangalore/juice-junction-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "Chillies",
+        "cuisine": "South Indian, Biryani, Street Food",
+        "rating": "4.1",
+        "link": "https://www.zomato.com/bangalore/chillies-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "Luckhnow Street",
+        "cuisine": "Awadhi, Kebab, Biryani",
+        "rating": "4.1",
+        "link": "https://www.zomato.com/bangalore/luckhnow-street-st-marks-road-bangalore/order"
+    },
+    {
+        "name": "Khawa Karpo",
+        "cuisine": "Chinese, Tibetan",
+        "rating": "4.4",
+        "link": "https://www.zomato.com/bangalore/khawa-karpo-koramangala-5th-block/order"
+    },
+    {
+        "name": "Myfroyoland Premium Frozen Yoghurt",
+        "cuisine": "Ice Cream, Desserts, Frozen Yogurt",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/myfroyoland-premium-frozen-yoghurt-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "Tadka Singh",
+        "cuisine": "North Indian, Rolls",
+        "rating": "3.4",
+        "link": "https://www.zomato.com/bangalore/tadka-singh-st-marks-road-bangalore/order"
+    },
+    {
+        "name": "The D\u00f6ner Company",
+        "cuisine": "Shawarma, Wraps, Sandwich, Burger, Fast Food, North Indian, Coffee, Beverages",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/the-d%C3%B6ner-company-st-marks-road-bangalore/order"
+    },
+    {
+        "name": "Little Kolkata",
+        "cuisine": "Bengali, North Indian, Chinese",
+        "rating": "4.2",
+        "link": "https://www.zomato.com/bangalore/little-kolkata-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "Pabrai's Fresh And Naturelle Ice Cream",
+        "cuisine": "Ice Cream, Shake",
+        "rating": "4.1",
+        "link": "https://www.zomato.com/bangalore/pabrais-fresh-and-naturelle-ice-cream-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "Sonar Bangala",
+        "cuisine": "Bengali, North Indian, Beverages",
+        "rating": "4.2",
+        "link": "https://www.zomato.com/bangalore/sonar-bangala-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "Hatti Kaapi",
+        "cuisine": "Coffee, South Indian, Street Food",
+        "rating": "3.4",
+        "link": "https://www.zomato.com/bangalore/hatti-kaapi-koramangala-5th-block/order"
+    },
+    {
+        "name": "Cothas Coffee",
+        "cuisine": "Beverages, Coffee, Shake, Street Food",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/cothas-coffee-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "Golicious Vada Pav",
+        "cuisine": "Fast Food, Burger",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/golicious-vada-pav-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "Churroland",
+        "cuisine": "Desserts, Ice Cream, Beverages",
+        "rating": "4.3",
+        "link": "https://www.zomato.com/bangalore/churroland-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "The Konkan - Seafood Restaurant",
+        "cuisine": "Konkan, North Indian, Chinese, Seafood, Mughlai, Beverages",
+        "rating": "3.7",
+        "link": "https://www.zomato.com/bangalore/the-konkan-seafood-restaurant-st-marks-road/order"
+    },
+    {
+        "name": "What The Food",
+        "cuisine": "North Indian, Chinese, Rolls, Sichuan",
+        "rating": "3.5",
+        "link": "https://www.zomato.com/bangalore/what-the-food-koramangala-7th-block-bangalore/order"
+    },
+    {
+        "name": "Phra Nakhon",
+        "cuisine": "Thai, Seafood",
+        "rating": "4.4",
+        "link": "https://www.zomato.com/bangalore/phra-nakhon-1-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "Yummy Fried Chicken",
+        "cuisine": "Fast Food, Beverages, Burger",
+        "rating": "3.6",
+        "link": "https://www.zomato.com/bangalore/yummy-fried-chicken-kammanahalli-bangalore/order"
+    },
+    {
+        "name": "Mr. BB",
+        "cuisine": "Biryani, South Indian, Chinese",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/mr-bb-rajajinagar-bangalore/order"
+    },
+    {
+        "name": "Chopstick World",
+        "cuisine": "Chinese, Asian, Thai, North Indian, South Indian",
+        "rating": "New",
+        "link": "https://www.zomato.com/bangalore/chopstick-world-2-basaveshwara-nagar-bangalore/order"
+    },
+    {
+        "name": "Infinitea Tea Room & Tea Store",
+        "cuisine": "Italian, Healthy Food, Pizza, Seafood, Fast Food, Desserts, Beverages",
+        "rating": "4.2",
+        "link": "https://www.zomato.com/bangalore/infinitea-tea-room-tea-store-shivajinagar-bangalore/order"
+    },
+    {
+        "name": "Dezire Sugar Free Sweets & Cakes",
+        "cuisine": "Mithai, Desserts",
+        "rating": "3.5",
+        "link": "https://www.zomato.com/bangalore/dezire-sugar-free-sweets-cakes-basavanagudi-bangalore/order"
+    },
+    {
+        "name": "Rolls Kitchen",
+        "cuisine": "Rolls, Burger, Sandwich",
+        "rating": "4.2",
+        "link": "https://www.zomato.com/bangalore/rolls-kitchen-rajajinagar/order"
+    },
+    {
+        "name": "Andhra Kitchen",
+        "cuisine": "Andhra, Biryani",
+        "rating": "4.1",
+        "link": "https://www.zomato.com/bangalore/andhra-kitchen-btm/order"
+    },
+    {
+        "name": "Five Star Chicken",
+        "cuisine": "Burger, Rolls, Fast Food",
+        "rating": "3.8",
+        "link": "https://www.zomato.com/bangalore/five-star-chicken-domlur-bangalore/order"
+    },
+    {
+        "name": "Kwality Wall\u2019s Frozen Dessert and Ice Cream Shop",
+        "cuisine": "Ice Cream, Desserts",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/kwality-walls-frozen-dessert-and-ice-cream-shop-3-vijay-nagar-bangalore/order"
+    },
+    {
+        "name": "ITC Aashirvaad Soul Creations",
+        "cuisine": "North Indian, Healthy Food, Beverages, Desserts",
+        "rating": "4.3",
+        "link": "https://www.zomato.com/bangalore/itc-aashirvaad-soul-creations-jayanagar-bangalore/order"
+    },
+    {
+        "name": "Olio - The Wood Fired Pizzeria",
+        "cuisine": "Pizza, Italian, Fast Food, Beverages",
+        "rating": "4.2",
+        "link": "https://www.zomato.com/bangalore/olio-the-wood-fired-pizzeria-banashankari-bangalore/order"
+    },
+    {
+        "name": "Puchkas",
+        "cuisine": "North Indian, Fast Food, Chinese, Street Food, Desserts",
+        "rating": "4.2",
+        "link": "https://www.zomato.com/bangalore/puchkas-koramangala-7th-block-bangalore/order"
+    },
+    {
+        "name": "Bhole Ke Chole",
+        "cuisine": "North Indian, Street Food, Desserts, Beverages",
+        "rating": "3.7",
+        "link": "https://www.zomato.com/bangalore/bhole-ke-chole-koramangala-8th-block-bangalore/order"
+    },
+    {
+        "name": "Food King",
+        "cuisine": "Chinese, Shawarma",
+        "rating": "3.7",
+        "link": "https://www.zomato.com/bangalore/food-king-1-thippasandra-bangalore/order"
+    },
+    {
+        "name": "CTR Shri Sagar - Since 1920",
+        "cuisine": "South Indian",
+        "rating": "4.3",
+        "link": "https://www.zomato.com/bangalore/ctr-shri-sagar-since-1920-malleshwaram-bangalore/order"
+    },
+    {
+        "name": "Crusto's - Cheese Burst Pizza",
+        "cuisine": "Pizza, Italian, Fast Food, Beverages",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/crustos-cheese-burst-pizza-banashankari-bangalore/order"
+    },
+    {
+        "name": "Delickit",
+        "cuisine": "South Indian, Chinese",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/delickit-btm-bangalore/order"
+    },
+    {
+        "name": "Hot Coffee",
+        "cuisine": "South Indian, Beverages",
+        "rating": "4.4",
+        "link": "https://www.zomato.com/bangalore/hot-coffee-vijay-nagar/order"
+    },
+    {
+        "name": "Maharaja Military Canteen - Donne Biryani",
+        "cuisine": "Biryani, South Indian, Kebab",
+        "rating": "3.8",
+        "link": "https://www.zomato.com/bangalore/maharaja-military-canteen-donne-biryani-banashankari-bangalore/order"
+    },
+    {
+        "name": "Bismillah Kabab Center",
+        "cuisine": "Kebab, Rolls",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/bismillah-kabab-center-1-frazer-town-bangalore/order"
+    },
+    {
+        "name": "Veg Brooo - Chinese",
+        "cuisine": "Chinese, Momos",
+        "rating": "3.8",
+        "link": "https://www.zomato.com/bangalore/veg-brooo-chinese-indiranagar-bangalore/order"
+    },
+    {
+        "name": "Kunafa Story",
+        "cuisine": "Desserts",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/kunafa-story-rt-nagar-bangalore/order"
+    },
+    {
+        "name": "HomeSe Just Veg",
+        "cuisine": "South Indian, North Indian, Beverages",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/homese-just-veg-1-btm-bangalore/order"
+    },
+    {
+        "name": "Thunder Shawarma",
+        "cuisine": "Shawarma",
+        "rating": "3.6",
+        "link": "https://www.zomato.com/bangalore/thunder-shawarma-rajajinagar-bangalore/order"
+    },
+    {
+        "name": "N Square K Cafe",
+        "cuisine": "Pizza, Pasta, Sandwich, Burger, Fast Food, Salad, Shake, Beverages",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/n-square-k-cafe-kammanahalli-bangalore/order"
+    },
+    {
+        "name": "Poffertjes Corner",
+        "cuisine": "Pancake, Desserts",
+        "rating": "3.6",
+        "link": "https://www.zomato.com/bangalore/poffertjes-corner-btm-bangalore/order"
+    },
+    {
+        "name": "Giani",
+        "cuisine": "Ice Cream, Desserts, Shake, Beverages",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/giani-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "Brothers Burger",
+        "cuisine": "American, Fast Food, Beverages, Burger, Street Food",
+        "rating": "4.2",
+        "link": "https://www.zomato.com/bangalore/brothers-burger-btm-bangalore/order"
+    },
+    {
+        "name": "Phulke",
+        "cuisine": "North Indian, Chinese",
+        "rating": "4.1",
+        "link": "https://www.zomato.com/bangalore/phulke-1-jp-nagar-bangalore/order"
+    },
+    {
+        "name": "Elays Restaurant",
+        "cuisine": "South Indian",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/elays-restaurant-btm-bangalore/order"
+    },
+    {
+        "name": "Spice N Nice",
+        "cuisine": "Chinese, Fast Food",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/spice-n-nice-banashankari-bangalore/order"
+    },
+    {
+        "name": "Bombay Sandwhich Co.",
+        "cuisine": "Sandwich",
+        "rating": "3.6",
+        "link": "https://www.zomato.com/bangalore/bombay-sandwhich-co-koramangala-7th-block-bangalore/order"
+    },
+    {
+        "name": "Cool Katte",
+        "cuisine": "Juices, Shake, Beverages, Chinese, Sandwich, Street Food, Fast Food, Ice Cream",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/cool-katte-banashankari-bangalore/order"
+    },
+    {
+        "name": "Anam Restaurant",
+        "cuisine": "Biryani, South Indian",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/anam-restaurant-hosur-road-bangalore/order"
+    },
+    {
+        "name": "Fries & Bowlz",
+        "cuisine": "Fast Food, Kebab",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/fries-bowlz-nagawara-bangalore/order"
+    },
+    {
+        "name": "Schezwan Restaurant",
+        "cuisine": "Chinese, Fast Food, North Indian, Biryani, Rolls, Beverages, Shake, Sichuan",
+        "rating": "3.9",
+        "link": "https://www.zomato.com/bangalore/schezwan-restaurant-btm-bangalore/order"
+    },
+    {
+        "name": "Fish Raja",
+        "cuisine": "Seafood, Biryani",
+        "rating": "3.0",
+        "link": "https://www.zomato.com/bangalore/fish-raja-malleshwaram-bangalore/order"
+    },
+    {
+        "name": "Delhi Kulfi & Faluda",
+        "cuisine": "Ice Cream, Shake",
+        "rating": "3.1",
+        "link": "https://www.zomato.com/bangalore/delhi-kulfi-faluda-koramangala-7th-block-bangalore/order"
+    },
+    {
+        "name": "Barbequeen Shawarma",
+        "cuisine": "Shawarma",
+        "rating": "New",
+        "link": "https://www.zomato.com/bangalore/barbequeen-shawarma-2-btm-bangalore/order"
+    },
+    {
+        "name": "Flodeis",
+        "cuisine": "Desserts, Ice Cream, Beverages, Shake",
+        "rating": "4.1",
+        "link": "https://www.zomato.com/bangalore/flodeis-vijay-nagar-bangalore/order"
+    },
+    {
+        "name": "Bubbler's Cafe",
+        "cuisine": "Street Food, Rolls, Sandwich, Burger, Juices, Beverages",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/bubblers-cafe-btm-bangalore/order"
+    },
+    {
+        "name": "Restro 99",
+        "cuisine": "North Indian, Rolls, Biryani, Chinese",
+        "rating": "3.6",
+        "link": "https://www.zomato.com/bangalore/restro-99-btm-bangalore/order"
+    },
+    {
+        "name": "Hotel Green Leaf",
+        "cuisine": "South Indian",
+        "rating": "3.7",
+        "link": "https://www.zomato.com/bangalore/hotel-green-leaf-btm-bangalore/order"
+    },
+    {
+        "name": "Simple Treats",
+        "cuisine": "North Indian",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/simple-treats-1-banashankari-bangalore/order"
+    },
+    {
+        "name": "Hyderabad Biriyani House",
+        "cuisine": "Biryani",
+        "rating": "3.2",
+        "link": "https://www.zomato.com/bangalore/hyderabad-biriyani-house-rt-nagar-bangalore/order"
+    },
+    {
+        "name": "10 Calzones Tacos N Mexican Wraps",
+        "cuisine": "Italian",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/10-calzones-tacos-n-mexican-wraps-koramangala-6th-block-bangalore/order"
+    },
+    {
+        "name": "Ms. Vada Pav",
+        "cuisine": "Street Food, Maharashtrian",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/ms-vada-pav-btm-bangalore/order"
+    },
+    {
+        "name": "Biryani Boss",
+        "cuisine": "Biryani",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/biryani-boss-ejipura-bangalore/order"
+    },
+    {
+        "name": "Big Bite Continental",
+        "cuisine": "South Indian",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/big-bite-continental-rajajinagar-bangalore/order"
+    },
+    {
+        "name": "Iceberg Organic Icecreams",
+        "cuisine": "Ice Cream, Bakery, Desserts",
+        "rating": "4.2",
+        "link": "https://www.zomato.com/bangalore/iceberg-organic-icecreams-cunningham-road-bangalore/order"
+    },
+    {
+        "name": "Novelty Snacks",
+        "cuisine": "Street Food",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/novelty-snacks-btm-bangalore/order"
+    },
+    {
+        "name": "Yadavas Kitchen",
+        "cuisine": "Fast Food",
+        "rating": "New",
+        "link": "https://www.zomato.com/bangalore/yadavas-kitchen-rajajinagar-bangalore/order"
+    },
+    {
+        "name": "Jodhpur Restaurant",
+        "cuisine": "South Indian, North Indian",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/jodhpur-restaurant-shanti-nagar-bangalore/order"
+    },
+    {
+        "name": "Ambari Dum BIryani",
+        "cuisine": "Biryani",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/ambari-dum-biryani-ulsoor-bangalore/order"
+    },
+    {
+        "name": "The Burger Hub",
+        "cuisine": "Rolls, Burger, Fast Food, Street Food, Ice Cream, Beverages, Desserts, Shake",
+        "rating": "4.1",
+        "link": "https://www.zomato.com/bangalore/the-burger-hub-banaswadi-bangalore/order"
+    },
+    {
+        "name": "Chicken Fusion",
+        "cuisine": "Fast Food, Burger, Pizza, Rolls, Beverages",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/chicken-fusion-3-rt-nagar-bangalore/order"
+    },
+    {
+        "name": "Ko Fried Chicken",
+        "cuisine": "Fast Food",
+        "rating": "3.5",
+        "link": "https://www.zomato.com/bangalore/ko-fried-chicken-btm-bangalore/order"
+    },
+    {
+        "name": "Kripita Cafe",
+        "cuisine": "Fast Food, North Indian, Street Food, Chinese, Rolls",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/kripita-cafe-shanti-nagar-bangalore/order"
+    },
+    {
+        "name": "Kamat Restaurant",
+        "cuisine": "North Indian, Chinese, Street Food, Ice Cream, Desserts, Beverages",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/kamat-restaurant-city-market/order"
+    },
+    {
+        "name": "Taj Fast Food & Chicken Kebab Center",
+        "cuisine": "Chinese, South Indian",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/taj-fast-food-chicken-kebab-center-btm-bangalore/order"
+    },
+    {
+        "name": "Vapor Kitchen",
+        "cuisine": "Fast Food, Rolls",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/vapor-kitchen-kammanahalli-bangalore/order"
+    },
+    {
+        "name": "Dyadic Burger Factory",
+        "cuisine": "Fast Food",
+        "rating": "4.3",
+        "link": "https://www.zomato.com/bangalore/dyadic-burger-factory-2-banaswadi-bangalore/order"
+    },
+    {
+        "name": "Knight Bite",
+        "cuisine": "Burger, Chinese, Fast Food, Desserts, Beverages",
+        "rating": "3.6",
+        "link": "https://www.zomato.com/bangalore/knight-bite-btm-bangalore/order"
+    },
+    {
+        "name": "Hokart - Darjeeling Momos",
+        "cuisine": "Momos",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/hokart-darjeeling-momos-1-koramangala-6th-block-bangalore/order"
+    },
+    {
+        "name": "La Suvai",
+        "cuisine": "South Indian, Biryani, Chinese",
+        "rating": "New",
+        "link": "https://www.zomato.com/bangalore/la-suvai-1-koramangala-1st-block-bangalore/order"
+    },
+    {
+        "name": "Sri Udupi",
+        "cuisine": "South Indian, North Indian, Chinese, Beverages, Street Food, Desserts",
+        "rating": "4.1",
+        "link": "https://www.zomato.com/bangalore/sri-udupi-airport-road-bangalore/order"
+    },
+    {
+        "name": "Sahana And Ekshita Traders",
+        "cuisine": "Fast Food, Beverages",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/sahana-and-ekshita-traders-rajajinagar-bangalore/order"
+    },
+    {
+        "name": "Bachelor's Kitchen",
+        "cuisine": "South Indian, North Indian, Chinese",
+        "rating": "New",
+        "link": "https://www.zomato.com/bangalore/bachelors-kitchen-2-btm-bangalore/order"
+    },
+    {
+        "name": "Ayub's",
+        "cuisine": "North Indian, Biryani, Rolls, Kebab",
+        "rating": "3.9",
+        "link": "https://www.zomato.com/bangalore/ayubs-koramangala-5th-block-bangalore/order"
+    },
+    {
+        "name": "Tanya Restaurants",
+        "cuisine": "Chinese, North Indian, South Indian, Biryani, Rolls, Sichuan",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/tanya-restaurants-koramangala-1st-block-bangalore/order"
+    },
+    {
+        "name": "Cult Express",
+        "cuisine": "Beverages, Juices, Desserts, Healthy Food",
+        "rating": "3.7",
+        "link": "https://www.zomato.com/bangalore/cult-express-btm-bangalore/order"
+    },
+    {
+        "name": "Rolls Venue",
+        "cuisine": "Rolls, North Indian, Chinese",
+        "rating": "3.7",
+        "link": "https://www.zomato.com/bangalore/rolls-venue-jayanagar-bangalore/order"
+    },
+    {
+        "name": "AVS Food Products",
+        "cuisine": "Mithai",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/avs-food-products-kalyan-nagar-bangalore/order"
+    },
+    {
+        "name": "Shawarma Center",
+        "cuisine": "Lebanese, Rolls, Fast Food",
+        "rating": "3.7",
+        "link": "https://www.zomato.com/bangalore/shawarma-center-rt-nagar-bangalore/order"
+    },
+    {
+        "name": "Royal Chinese Foods",
+        "cuisine": "Chinese, South Indian, Sichuan",
+        "rating": "4.3",
+        "link": "https://www.zomato.com/bangalore/royal-chinese-foods-1-rt-nagar-bangalore/order"
+    },
+    {
+        "name": "Om Seemang Chinese Momos",
+        "cuisine": "Momos, Pasta",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/om-seemang-chinese-momos-1-btm-bangalore/order"
+    },
+    {
+        "name": "Soundarya Delicacies",
+        "cuisine": "Seafood, Fast Food, Chinese",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/soundarya-delicacies-rt-nagar-bangalore/order"
+    },
+    {
+        "name": "HVR Veg",
+        "cuisine": "South Indian",
+        "rating": "4.3",
+        "link": "https://www.zomato.com/bangalore/hvr-veg-seshadripuram-bangalore/order"
+    },
+    {
+        "name": "Eat And Beat Kitchen",
+        "cuisine": "Fast Food, North Indian",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/eat-and-beat-kitchen-1-rt-nagar-bangalore/order"
+    },
+    {
+        "name": "Hotel Savitha",
+        "cuisine": "Chinese, North Indian, South Indian, Biryani, Sichuan",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/hotel-savitha-koramangala-1st-block-bangalore/order"
+    },
+    {
+        "name": "Khichdi Bar",
+        "cuisine": "North Indian, Healthy Food",
+        "rating": "3.9",
+        "link": "https://www.zomato.com/bangalore/khichdi-bar-koramangala-8th-block-bangalore/order"
+    },
+    {
+        "name": "Sarafizzy Delights",
+        "cuisine": "Chinese, Fast Food, Street Food, Beverages",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/sarafizzy-delights-kalyan-nagar-bangalore/order"
+    },
+    {
+        "name": "Firangi Bhukkad",
+        "cuisine": "Fast Food, Burger, Sandwich, Pasta, Wraps, Sichuan",
+        "rating": "3.8",
+        "link": "https://www.zomato.com/bangalore/firangi-bhukkad-koramangala-8th-block-bangalore/order"
+    },
+    {
+        "name": "BSK-BBQ - Veg Barbecue",
+        "cuisine": "BBQ",
+        "rating": "4.3",
+        "link": "https://www.zomato.com/bangalore/bsk-bbq-veg-barbecue-banashankari-bangalore/order"
+    },
+    {
+        "name": "Sri Vasavi Hotel",
+        "cuisine": "Chinese",
+        "rating": "3.8",
+        "link": "https://www.zomato.com/bangalore/sri-vasavi-hotel-btm-bangalore/order"
+    },
+    {
+        "name": "Mallikarjun Chat Centre",
+        "cuisine": "Street Food",
+        "rating": "3.9",
+        "link": "https://www.zomato.com/bangalore/mallikarjun-chat-centre-banashankari-bangalore/order"
+    },
+    {
+        "name": "N J Pizza Point",
+        "cuisine": "Fast Food, Ice Cream, Shake",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/n-j-pizza-point-malleshwaram-bangalore/order"
+    },
+    {
+        "name": "Cafe Dacosta",
+        "cuisine": "Bakery, Street Food, Fast Food",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/cafe-dacosta-frazer-town-bangalore/order"
+    },
+    {
+        "name": "Being Healthy Kitchen",
+        "cuisine": "Healthy Food, Continental, Salad, Fast Food, Desserts, Beverages",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/being-healthy-kitchen-frazer-town-bangalore/order"
+    },
+    {
+        "name": "Momomia",
+        "cuisine": "Momos, Rolls",
+        "rating": "4.1",
+        "link": "https://www.zomato.com/bangalore/momomia-domlur-bangalore/order"
+    },
+    {
+        "name": "Kunal Tiffin Centre",
+        "cuisine": "South Indian",
+        "rating": "4.3",
+        "link": "https://www.zomato.com/bangalore/kunal-tiffin-centre-rt-nagar/order"
+    },
+    {
+        "name": "KA-02 Biryani",
+        "cuisine": "Biryani, South Indian",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/ka-02-biryani-magadi-road-bangalore/order"
+    },
+    {
+        "name": "Yummilicious Bite",
+        "cuisine": "Fast Food, Beverages, Shake",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/yummilicious-bite-koramangala-6th-block-bangalore/order"
+    },
+    {
+        "name": "Kha Ching!",
+        "cuisine": "Chinese, Sichuan",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/kha-ching-btm-bangalore/order"
+    },
+    {
+        "name": "Bangarpet Chats & Chats",
+        "cuisine": "Street Food, Maharashtrian",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangarpet-chats-and-sweets-food-truck/order"
+    },
+    {
+        "name": "Al - Khurakh",
+        "cuisine": "Biryani, Kebab",
+        "rating": "3.4",
+        "link": "https://www.zomato.com/bangalore/al-khurakh-nagawara-bangalore/order"
+    },
+    {
+        "name": "Al Baik Fried Chicken",
+        "cuisine": "Fast Food, Ice Cream, Desserts, Shake, Beverages",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/al-baik-fried-chicken-shanti-nagar-bangalore/order"
+    },
+    {
+        "name": "Tea Park",
+        "cuisine": "Fast Food",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/tea-park-malleshwaram-bangalore/order"
+    },
+    {
+        "name": "Cock Ra Co Fried Chicken",
+        "cuisine": "Burger, Fast Food",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/cock-ra-co-fried-chicken-btm-bangalore/order"
+    },
+    {
+        "name": "Rolls Mafia",
+        "cuisine": "Rolls",
+        "rating": "3.8",
+        "link": "https://www.zomato.com/bangalore/rolls-mafia-btm-bangalore/order"
+    },
+    {
+        "name": "Sri LV Chat Bhandar",
+        "cuisine": "Street Food",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/sri-lv-chat-bhandar-vijay-nagar-bangalore/order"
+    },
+    {
+        "name": "J N Hotel",
+        "cuisine": "South Indian",
+        "rating": "3.5",
+        "link": "https://www.zomato.com/bangalore/j-n-hotel-btm-bangalore/order"
+    },
+    {
+        "name": "Aisham Biriyani",
+        "cuisine": "Biryani",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/aisham-biriyani-1-rajajinagar-bangalore/order"
+    },
+    {
+        "name": "Cocoparies",
+        "cuisine": "Bakery, Desserts",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/cocoparies-rt-nagar-bangalore/order"
+    },
+    {
+        "name": "Shanti Tiffin House",
+        "cuisine": "Rajasthani",
+        "rating": "4.3",
+        "link": "https://www.zomato.com/bangalore/shanti-tiffin-house-1-rajajinagar-bangalore/order"
+    },
+    {
+        "name": "M & N Food Point",
+        "cuisine": "North Indian, Fast Food",
+        "rating": "4.0",
+        "link": "https://www.zomato.com/bangalore/m-n-food-point-3-ejipura-bangalore/order"
+    },
+    {
+        "name": "Kavere Cafe",
+        "cuisine": "Chinese, Street Food, Mithai, North Indian",
+        "rating": "-",
+        "link": "https://www.zomato.com/bangalore/kavere-cafe-basavanagudi-bangalore/order"
+    }
+]
